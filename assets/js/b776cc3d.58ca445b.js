@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[8804],{938:function(e){e.exports=JSON.parse('{"pluginId":"ribston","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin Ribston","href":"/docs/ribston/overview"}]}}')}}]);

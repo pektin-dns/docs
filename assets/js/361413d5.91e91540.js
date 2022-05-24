@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[8497],{2579:function(e){e.exports=JSON.parse('{"pluginId":"keydb","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin Keydb Config","href":"/docs/keydb/overview"}]}}')}}]);

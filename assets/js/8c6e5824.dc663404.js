@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[8153],{8771:function(e){e.exports=JSON.parse('{"pluginId":"server","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin Server","href":"/docs/server/overview"}]}}')}}]);

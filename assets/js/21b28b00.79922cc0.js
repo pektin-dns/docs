@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[9724],{3732:function(e){e.exports=JSON.parse('{"pluginId":"certbot","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin Certbot DNS Plugin","href":"/docs/certbot/overview"}]}}')}}]);

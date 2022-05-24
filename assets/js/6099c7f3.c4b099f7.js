@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[5322],{1314:function(e){e.exports=JSON.parse('{"pluginId":"vault","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin Vault Config","href":"/docs/vault/overview"}]}}')}}]);

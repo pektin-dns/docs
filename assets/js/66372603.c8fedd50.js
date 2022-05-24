@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[3257],{7202:function(e){e.exports=JSON.parse('{"pluginId":"ui","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Pektin UI","href":"/docs/ui/overview"}]}}')}}]);
